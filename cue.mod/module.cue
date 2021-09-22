@@ -1,0 +1,1 @@
+module: "swagger.io/specification/"
